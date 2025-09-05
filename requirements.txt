@@ -1,0 +1,11 @@
+selenium==4.23.1
+pytest == 8.3.2
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+OpenPyxl==3.1.5
+Allure-pytest==2.13.5
+pyperclip==1.9.0
+pytest-reportportal==5.4.1
+
+
+
